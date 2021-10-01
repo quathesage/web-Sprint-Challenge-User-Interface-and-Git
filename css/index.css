@@ -235,3 +235,18 @@ footer nav a {
   color: white;
   text-decoration: none;
 }
+
+.cont div {
+  max-width: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  border-bottom: 1px dashed black;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 5%;
+}
